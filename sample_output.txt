@@ -1,0 +1,5 @@
+Sep 14 19:45:45 sysadmin-host kernel: [    0.641737] RAS: Correctable Errors collector initialized.
+Sep 14 19:45:45 sysadmin-host kernel: [    0.929948] GPT: Use GNU Parted to correct GPT errors.
+Sep 14 19:45:45 sysadmin-host kernel: [    3.398650] blk_update_request: I/O error, dev fd0, sector 0 op 0x0:(READ) flags 0x80700 phys_seg 1 prio class 0
+Sep 14 19:45:45 sysadmin-host kernel: [    3.401432] blk_update_request: I/O error, dev fd0, sector 0 op 0x0:(READ) flags 0x0 phys_seg 1 prio class 0
+Sep 14 19:45:45 sysadmin-host kernel: [    3.403057] Buffer I/O error on dev fd0, logical block 0, async page read
